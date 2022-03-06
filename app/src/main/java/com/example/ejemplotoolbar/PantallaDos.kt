@@ -31,3 +31,4 @@ class PantallaDos : AppCompatActivity() {
         return super.onCreateOptionsMenu(menu)
     }
 }
+

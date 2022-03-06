@@ -17,6 +17,7 @@ import androidx.core.view.MenuItemCompat
 //main
 
 class MainActivity : AppCompatActivity() {
+
     var toolbar: Toolbar? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
