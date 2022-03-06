@@ -14,6 +14,8 @@ import androidx.appcompat.widget.ShareActionProvider
 import androidx.appcompat.widget.Toolbar
 import androidx.core.view.MenuItemCompat
 
+//main
+
 class MainActivity : AppCompatActivity() {
     var toolbar: Toolbar? = null
 

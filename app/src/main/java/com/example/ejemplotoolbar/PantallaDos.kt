@@ -7,6 +7,8 @@ import androidx.appcompat.widget.Toolbar
 
 class PantallaDos : AppCompatActivity() {
 
+    //segunda pantalla
+
     var toolbar: Toolbar? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
